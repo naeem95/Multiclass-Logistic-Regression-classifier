@@ -1,0 +1,4 @@
+Accuracy = 86
+
+To make this algorithm generalized i set a Divergence Criteria = 10^-3 when difference between sum square error of new w and old w becomes 
+less than 10^-3 then iteration loop will diverge.
